@@ -1,0 +1,29 @@
+_repo: Famous-Affinities-of-History--The-Romance-of-Devotion.-Volume-2_4690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orr, Lyndon
+    gutenberg_agent_id: '1548'
+    url: http://www.gutenberg.org/2009/agents/1548
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+- !lcsh 'Love'
+- !lcsh 'Biography'
+- GITenberg
+tableOfContents: The Empress Catharine and Prince Potemkin -- Marie Antoinette and
+  Count Fersen -- The story of Aaron Burr -- George IV and Mrs. Fitzherbert -- Charlotte
+  Corday and Adam Lux -- Napoleon and Marie Walewska -- The story of Pauline Bonaparte
+  -- The story of the Empress Marie Louise and Count Neipperg.
+title: 'Famous Affinities of History: The Romance of Devotion. Volume 2'
+url: http://www.gutenberg.org/ebooks/4690
